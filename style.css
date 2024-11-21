@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+h1{
+    color: #4AB5E0; 
+    font-size: xx-large;
+    margin: auto;
+}
+
+.Opening{
+    color: #FF0021
+}
+
+.About-Me{
+    color: #4AB5E0;
+    padding: 10px;
+    border: 3px solid #4AB5E0;
+}
